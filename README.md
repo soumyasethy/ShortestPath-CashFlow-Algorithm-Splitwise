@@ -10,13 +10,13 @@ There's no sense in $10 making its way from Alice to Bob and then from Bob to Ch
 
 The goal, then, in the general case is to take a debt graph and simplify it (i.e. produce a new graph with the same nodes but different edges).
 
-How to Use?
+How to Use?  
 I have created a method which just do it.  
 **"findPath(parm)"**  
     
 **Create a HashMap Variable**  
   "static HashMap parm = new HashMap()"
-** Add the Expense in below formate **   
+**Add the Expense in below formate**   
        "parm.put("Name", Amoun)"  
   
   For Example,  
@@ -27,11 +27,11 @@ I have created a method which just do it.
         parm.put("E", -20.0);  
         parm.put("F", -5.0);  
 
-** Passing values to find the Net Amount to be Paid with Person Name -Cash Flow / Shortest Path **  
+**Passing values to find the Net Amount to be Paid with Person Name -Cash Flow / Shortest Path**  
       
       findPath(parm);  
       
-** Out Put **  
+**Out Put**  
 C needs to pay B:20.0  
 E needs to pay D:20.0  
 A needs to pay B:5.0  
