@@ -1,9 +1,9 @@
-#Welcome to the ShortestPath-CashFlow-Algorithm-Splitwise Readme!  
+# Welcome to the ShortestPath-CashFlow-Algorithm-Splitwise Readme!  
 
 The idea is to use Shortest path algorithm where at every step, settle all amounts of one person and recur for remaining n-1 persons.  
 
   
-#Getting Started  
+# Getting Started  
   
 For example, if the following weighted directed graph represents some people and the arrows represent debts between them (Alice owes Bob $20 and Charlie $5, Bob owes Charlie $10, etc.):
 
