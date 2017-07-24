@@ -15,8 +15,10 @@ I have created a method which just do it.
 **"findPath(parm)"**  
     
 **Create a HashMap Variable**  
-  "static HashMap parm = new HashMap()"
-**Add the Expense in below formate**   
+  "static HashMap parm = new HashMap()"  
+  
+**Add the Expense in below formate**  
+
        "parm.put("Name", Amoun)"  
   
   For Example,  
