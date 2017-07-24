@@ -15,3 +15,4 @@ Charlie: +15
 You can see that the first and second graphs have the same flow through each node, so this is a good solution. There are some other easy cases, for example, any cycle can be simplified by removing the lowest valued edge and subtracting its value from all other edges.
 
 This:
+![Problem Statement](https://github.com/soumyasethy/ShortestPath-CashFlow-Algorithm-Splitwise/blob/Images/Screen%20Shot%202017-07-24%20at%208.47.07%20PM.png)
