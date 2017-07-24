@@ -40,3 +40,5 @@ E needs to pay D:20.0
 A needs to pay B:5.0  
 F needs to pay D:5.0  
         
+![Problem Statement](https://github.com/soumyasethy/ShortestPath-CashFlow-Algorithm-Splitwise/blob/Images/Screen%20Shot%202017-07-24%20at%209.50.56%20PM.png)
+![Problem Statement](https://github.com/soumyasethy/ShortestPath-CashFlow-Algorithm-Splitwise/blob/Images/Screen%20Shot%202017-07-24%20at%209.51.01%20PM.png)
