@@ -21,7 +21,8 @@ I have created a method which just do it.
 
        "parm.put("Name", Amoun)"  
   
-  For Example,  
+  For Example,  
+  
         parm.put("A", -5.0);  
         parm.put("B", 25.0);  
         parm.put("C", -20.0);  
